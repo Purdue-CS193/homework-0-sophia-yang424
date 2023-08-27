@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Things I like About CS193
 
- Taught by students, so it feels more accessible
+- Taught by students, so it feels more accessible
 - Content is taught by those who have taken the actual courses I will be in which makes me more assured the content I am learning is useful for my success
 - Allows me to practice skills necessary for success in CS
 
